@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @techmau5
-- 👀 I’m interested in Python and Swift!
-- 🌱 I’m currently learning how to properly write iOS apps
-- 💞️ I’m looking to collaborate on anything; I want to expact my library of languages
-- 📫 How to reach me: nothing atm
+- 👋 Hi, I’m Adrian or @techmau5
+- 👀 I’m interested in Python, Swift, Javascript!
+- 🌱 I’m currently further developing my skills in these languages and a few other such as Elixer.
+- 💞️ I’m looking to become a full stack developer.
+- 📫 How to reach me: Twitter - @adrian_siwy
 
 <!---
 techmau5/techmau5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
